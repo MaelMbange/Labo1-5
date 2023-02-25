@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Maelm\\.nuget\\packages\\": {}
+    "C:\\Users\\Maelm\\.nuget\\packages\\": {},
+    "A:\\Application\\VisualStudio\\Studio\\Applic\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\Dev\\C#\\Labo1-5\\Labo1\\Labo1.csproj",
+      "projectUniqueName": "A:\\Dev\\Csharp\\Labo1-5\\Labo1\\Labo1.csproj",
       "projectName": "Labo1",
-      "projectPath": "A:\\Dev\\C#\\Labo1-5\\Labo1\\Labo1.csproj",
+      "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo1\\Labo1.csproj",
       "packagesPath": "C:\\Users\\Maelm\\.nuget\\packages\\",
-      "outputPath": "A:\\Dev\\C#\\Labo1-5\\Labo1\\obj\\",
+      "outputPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "A:\\Application\\VisualStudio\\Studio\\Applic\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\Maelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
