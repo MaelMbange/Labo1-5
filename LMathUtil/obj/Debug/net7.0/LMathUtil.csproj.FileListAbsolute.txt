@@ -1,0 +1,15 @@
+A:\Dev\Csharp\Labo1-5\LMathUtil\bin\Debug\net7.0\LMathUtil.deps.json
+A:\Dev\Csharp\Labo1-5\LMathUtil\bin\Debug\net7.0\LMathUtil.dll
+A:\Dev\Csharp\Labo1-5\LMathUtil\bin\Debug\net7.0\LMathUtil.pdb
+A:\Dev\Csharp\Labo1-5\LMathUtil\bin\Debug\net7.0\LbFormes.dll
+A:\Dev\Csharp\Labo1-5\LMathUtil\bin\Debug\net7.0\LbFormes.pdb
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.csproj.AssemblyReference.cache
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.AssemblyInfoInputs.cache
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.AssemblyInfo.cs
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.csproj.CoreCompileInputs.cache
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.csproj.CopyComplete
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.dll
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\refint\LMathUtil.dll
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\LMathUtil.pdb
+A:\Dev\Csharp\Labo1-5\LMathUtil\obj\Debug\net7.0\ref\LMathUtil.dll
