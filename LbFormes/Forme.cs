@@ -14,5 +14,10 @@ public abstract class Forme
         _coordonnees = coordonnees;
     }
 
+    protected Forme(int x, int y)
+    {
+        _coordonnees = new Coordonnees(x, y);
+    }
+
     public abstract void Affiche();
 }

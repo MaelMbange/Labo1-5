@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v7.0": {
       "Labo1/1.0.0": {
+        "dependencies": {
+          "LbFormes": "1.0.0"
+        },
         "runtime": {
           "Labo1.dll": {}
+        }
+      },
+      "LbFormes/1.0.0": {
+        "runtime": {
+          "LbFormes.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Labo1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LbFormes/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

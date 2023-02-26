@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "LbFormes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/LbFormes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LbFormes.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "LbFormes/1.0.0": {
+      "type": "project",
+      "path": "../LbFormes/LbFormes.csproj",
+      "msbuildProject": "../LbFormes/LbFormes.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "LbFormes >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Maelm\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "A:\\Dev\\Csharp\\Labo1-5\\LbFormes\\LbFormes.csproj": {
+              "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\LbFormes\\LbFormes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

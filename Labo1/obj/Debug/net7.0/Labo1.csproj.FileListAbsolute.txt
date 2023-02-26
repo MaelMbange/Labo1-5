@@ -28,3 +28,6 @@ A:\Dev\Csharp\Labo1-5\Labo1\obj\Debug\net7.0\refint\Labo1.dll
 A:\Dev\Csharp\Labo1-5\Labo1\obj\Debug\net7.0\Labo1.pdb
 A:\Dev\Csharp\Labo1-5\Labo1\obj\Debug\net7.0\Labo1.genruntimeconfig.cache
 A:\Dev\Csharp\Labo1-5\Labo1\obj\Debug\net7.0\ref\Labo1.dll
+A:\Dev\Csharp\Labo1-5\Labo1\bin\Debug\net7.0\LbFormes.dll
+A:\Dev\Csharp\Labo1-5\Labo1\bin\Debug\net7.0\LbFormes.pdb
+A:\Dev\Csharp\Labo1-5\Labo1\obj\Debug\net7.0\Labo1.csproj.CopyComplete
