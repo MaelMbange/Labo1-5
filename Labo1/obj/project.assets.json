@@ -11,6 +11,19 @@
         "runtime": {
           "bin/placeholder/LbFormes.dll": {}
         }
+      },
+      "LMathUtil/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "LbFormes": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LMathUtil.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LMathUtil.dll": {}
+        }
       }
     }
   },
@@ -19,10 +32,16 @@
       "type": "project",
       "path": "../LbFormes/LbFormes.csproj",
       "msbuildProject": "../LbFormes/LbFormes.csproj"
+    },
+    "LMathUtil/1.0.0": {
+      "type": "project",
+      "path": "../LMathUtil/LMathUtil.csproj",
+      "msbuildProject": "../LMathUtil/LMathUtil.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "LMathUtil >= 1.0.0",
       "LbFormes >= 1.0.0"
     ]
   },
@@ -60,6 +79,9 @@
           "projectReferences": {
             "A:\\Dev\\Csharp\\Labo1-5\\LbFormes\\LbFormes.csproj": {
               "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\LbFormes\\LbFormes.csproj"
+            },
+            "A:\\Dev\\Csharp\\Labo1-5\\LMathUtil\\LMathUtil.csproj": {
+              "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\LMathUtil\\LMathUtil.csproj"
             }
           }
         }

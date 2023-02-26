@@ -2,5 +2,5 @@
 
 public interface IEstDans
 {
-    bool CoordonneeEstDans(Coordonnees coordonnees);
+    bool CoordonneeEstDans(Coordonnees p);
 }

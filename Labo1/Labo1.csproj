@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\LbFormes\LbFormes.csproj" />
+      <ProjectReference Include="..\LMathUtil\LMathUtil.csproj" />
     </ItemGroup>
 
 </Project>

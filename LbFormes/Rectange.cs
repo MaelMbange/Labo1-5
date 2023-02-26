@@ -5,8 +5,8 @@ public class Rectange : Forme,ISommet,IEstDans
     private float _largeur;
     private float _longueur;
 
-    public float Longeur { get; set; }
-    public float Largeur { get; set; }
+    public float Longeur { get => _longueur; set => _longueur = value; }
+    public float Largeur { get => _largeur; set => _largeur = value; }
 
 
     public Rectange() : this(0, 0, 0, 0){}
@@ -22,10 +22,10 @@ public class Rectange : Forme,ISommet,IEstDans
 
 
     public int NbSommet => 4;
-    public bool CoordonneeEstDans(Coordonnees coordonnees)
+    public bool CoordonneeEstDans(Coordonnees p)
     {
-        if (_coordonnees.X <= coordonnees.X && coordonnees.X <= _coordonnees.X + _largeur)
-            return _coordonnees.Y <= coordonnees.Y && coordonnees.Y <= _coordonnees.Y + _longueur;
+        if (_coordonnees.X <= p.X && p.X <= _coordonnees.X + _largeur)
+            return _coordonnees.Y <= p.Y && p.Y <= _coordonnees.Y + _longueur;
         return false;
     }
 
