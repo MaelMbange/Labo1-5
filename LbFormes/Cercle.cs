@@ -1,6 +1,6 @@
 ﻿namespace LbFormes;
 
-public class Cercle : Forme
+public class Cercle : Forme,IEstDans
 {
     private float _rayon;
     public float Rayon { get; set; }
@@ -15,4 +15,9 @@ public class Cercle : Forme
     }
 
     public override string ToString() => _coordonnees.X + " : " + _coordonnees.Y + " | ray = " + _rayon;
+    public bool CoordonneeEstDans(Coordonnees coordonnees)
+    {
+        double distanceAuCentre = Math.Sqrt(Math.Pow(coordonnees.X - _coordonnees.X, 2) + Math.Pow(coordonnees.Y - _coordonnees.Y, 2));
+        return distanceAuCentre <= _rayon;
+    }
 }

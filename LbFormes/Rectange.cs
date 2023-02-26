@@ -1,6 +1,6 @@
 ﻿namespace LbFormes;
 
-public class Rectange : Forme
+public class Rectange : Forme,ISommet,IEstDans
 {
     private float _largeur;
     private float _longueur;
@@ -19,4 +19,14 @@ public class Rectange : Forme
     }
 
     public override string ToString() => _coordonnees.X + " : " + _coordonnees.Y + " | lenght = " + _longueur + " | width = "+ _largeur;
+
+
+    public int NbSommet => 4;
+    public bool CoordonneeEstDans(Coordonnees coordonnees)
+    {
+        if (_coordonnees.X <= coordonnees.X && coordonnees.X <= _coordonnees.X + _largeur)
+            return _coordonnees.Y <= coordonnees.Y && coordonnees.Y <= _coordonnees.Y + _longueur;
+        return false;
+    }
+
 }
