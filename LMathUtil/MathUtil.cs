@@ -7,8 +7,8 @@ public class MathUtil
     {
         if (f is Carre ca)
             return ca.Lenght * 4;
-        if (f is Rectange rec)
-            return 2 * (rec.Longeur + rec.Largeur);
+        if (f is Rectangle rec)
+            return 2 * (rec.Longueur + rec.Largeur);
         if (f is Cercle ce)
             return (float)(3.14 * ce.Rayon * 2);
         else

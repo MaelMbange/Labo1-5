@@ -1,17 +1,16 @@
 ﻿namespace LbFormes;
 
-public class Rectange : Forme,ISommet,IEstDans
+public class Rectangle : Forme,ISommet,IEstDans
 {
     private float _largeur;
     private float _longueur;
 
-    public float Longeur { get => _longueur; set => _longueur = value; }
+    public float Longueur { get => _longueur; set => _longueur = value; }
     public float Largeur { get => _largeur; set => _largeur = value; }
 
 
-    public Rectange() : this(0, 0, 0, 0){}
-    public Rectange(float largeur, float longueur, int x, int y) =>
-        (_longueur, _largeur, _coordonnees.X, _coordonnees.Y) = (longueur, largeur, x, y);
+    public Rectangle() : this(0, 0, 0, 0){}
+    public Rectangle(float largeur, float longueur, int x, int y) : base(x,y) => (Largeur,Longueur) = (largeur,longueur);
     
     public override void Affiche()
     {

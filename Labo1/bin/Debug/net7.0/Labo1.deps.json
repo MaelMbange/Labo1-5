@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v7.0": {
       "Labo1/1.0.0": {
         "dependencies": {
+          "LMathUtil": "1.0.0",
           "LbFormes": "1.0.0"
         },
         "runtime": {
@@ -17,6 +18,14 @@
       "LbFormes/1.0.0": {
         "runtime": {
           "LbFormes.dll": {}
+        }
+      },
+      "LMathUtil/1.0.0": {
+        "dependencies": {
+          "LbFormes": "1.0.0"
+        },
+        "runtime": {
+          "LMathUtil.dll": {}
         }
       }
     }
@@ -28,6 +37,11 @@
       "sha512": ""
     },
     "LbFormes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LMathUtil/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

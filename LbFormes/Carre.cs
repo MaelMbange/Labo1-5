@@ -1,9 +1,9 @@
 ﻿namespace LbFormes;
 
-public class Carre : Forme,ISommet,IEstDans
+public class Carre : Forme,ISommet,IEstDans,IComparable<Carre>
 {
     private float _lenght;
-    public float Lenght { get => Lenght; set => _lenght = value; }
+    public float Lenght { get => _lenght; set => _lenght = value; }
 
     public Carre() : this(0, 0,0){}
     public Carre(float lenght, int x, int y) : base(x, y) => _lenght = lenght;
@@ -17,6 +17,13 @@ public class Carre : Forme,ISommet,IEstDans
     {
         return _coordonnees.X + " : " + _coordonnees.Y + " | lenght = " + _lenght;
     }
+    public int CompareTo(Carre? carre)
+    {
+        if (carre is not null)
+            return Lenght.CompareTo(carre.Lenght);
+            return -1;
+    }
+
     public int NbSommet => 4;
     public bool CoordonneeEstDans(Coordonnees p)
     {

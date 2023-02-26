@@ -3,6 +3,10 @@
 public abstract class Forme
 {
     protected Coordonnees _coordonnees;
+    
+    public Coordonnees Coordonnees { get => _coordonnees;
+        set => _coordonnees = value;
+    }
     public Forme()
     {
         _coordonnees = new Coordonnees();
