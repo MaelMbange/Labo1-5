@@ -15,6 +15,6 @@ public class Carre : Forme
     }
     public override string ToString()
     {
-        return _coordonnees.X.ToString() + " : " + _coordonnees.Y.ToString() + " | lenght = " + _lenght.ToString();
+        return _coordonnees.X + " : " + _coordonnees.Y + " | lenght = " + _lenght;
     }
 }
