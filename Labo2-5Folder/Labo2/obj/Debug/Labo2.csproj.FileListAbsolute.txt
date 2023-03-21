@@ -1,0 +1,16 @@
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\bin\Debug\Labo2.exe.config
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\bin\Debug\Labo2.exe
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\bin\Debug\Labo2.pdb
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.csproj.AssemblyReference.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.csproj.SuggestedBindingRedirects.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\MainWindow.g.cs
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\App.g.cs
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2_MarkupCompile.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2_MarkupCompile.lref
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\MainWindow.baml
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.g.resources
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.Properties.Resources.resources
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.csproj.GenerateResource.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.csproj.CoreCompileInputs.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.exe
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\Labo2\obj\Debug\Labo2.pdb

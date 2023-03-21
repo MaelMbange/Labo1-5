@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LMathUtil/1.0.0": {
+        "dependencies": {
+          "LbFormes": "1.0.0"
+        },
+        "runtime": {
+          "LMathUtil.dll": {}
+        }
+      },
+      "LbFormes/1.0.0": {
+        "runtime": {
+          "LbFormes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LMathUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LbFormes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

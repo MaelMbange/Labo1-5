@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\Labo3\\Labo3.csproj": {}
+  },
+  "projects": {
+    "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\Labo3\\Labo3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\Labo3\\Labo3.csproj",
+        "projectName": "Labo3",
+        "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\Labo3\\Labo3.csproj",
+        "packagesPath": "C:\\Users\\Maelm\\.nuget\\packages\\",
+        "outputPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\Labo3\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "A:\\Application\\VisualStudio\\Studio\\Applic\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj": {
+                "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj"
+              },
+              "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\LMathUtil.csproj": {
+                "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\LMathUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj",
+        "projectName": "LbFormes",
+        "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj",
+        "packagesPath": "C:\\Users\\Maelm\\.nuget\\packages\\",
+        "outputPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "A:\\Application\\VisualStudio\\Studio\\Applic\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\LMathUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\LMathUtil.csproj",
+        "projectName": "LMathUtil",
+        "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\LMathUtil.csproj",
+        "packagesPath": "C:\\Users\\Maelm\\.nuget\\packages\\",
+        "outputPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LMathUtil\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "A:\\Application\\VisualStudio\\Studio\\Applic\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Maelm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj": {
+                "projectPath": "A:\\Dev\\Csharp\\Labo1-5\\Labo2-5Folder\\LbFormes\\LbFormes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

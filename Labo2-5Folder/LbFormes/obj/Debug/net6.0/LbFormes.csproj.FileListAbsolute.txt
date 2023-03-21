@@ -1,0 +1,12 @@
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\bin\Debug\net6.0\LbFormes.deps.json
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\bin\Debug\net6.0\LbFormes.dll
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\bin\Debug\net6.0\LbFormes.pdb
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.csproj.AssemblyReference.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.GeneratedMSBuildEditorConfig.editorconfig
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.AssemblyInfoInputs.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.AssemblyInfo.cs
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.csproj.CoreCompileInputs.cache
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.dll
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\refint\LbFormes.dll
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\LbFormes.pdb
+A:\Dev\Csharp\Labo1-5\Labo2-5Folder\LbFormes\obj\Debug\net6.0\ref\LbFormes.dll
